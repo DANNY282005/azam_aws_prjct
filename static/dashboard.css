@@ -124,6 +124,7 @@ footer{
         text-decoration: none;
         color: white;
         margin-bottom: 10px;
+        transition: 0.9s;
     }
     footer .follow{
         margin-top: 20px;
@@ -133,6 +134,7 @@ footer{
         color: #465b52;
         padding-right: 4px;
         cursor: pointer;
+        transition: 0.7s;
     }
     .icon{
         margin-bottom: 50px;
